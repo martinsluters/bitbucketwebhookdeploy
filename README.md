@@ -1,4 +1,4 @@
-# A script used by Bitbucked Webhook to deploy
+# A script used by Bitbucket Webhook to deploy
 
 
 ### Usage
